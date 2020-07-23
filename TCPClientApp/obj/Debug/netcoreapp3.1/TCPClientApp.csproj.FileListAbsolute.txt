@@ -1,0 +1,13 @@
+C:\Users\PREDATOR\source\repos\TCPClientApp\TCPClientApp\bin\Debug\netcoreapp3.1\TCPClientApp.exe
+C:\Users\PREDATOR\source\repos\TCPClientApp\TCPClientApp\bin\Debug\netcoreapp3.1\TCPClientApp.deps.json
+C:\Users\PREDATOR\source\repos\TCPClientApp\TCPClientApp\bin\Debug\netcoreapp3.1\TCPClientApp.runtimeconfig.json
+C:\Users\PREDATOR\source\repos\TCPClientApp\TCPClientApp\bin\Debug\netcoreapp3.1\TCPClientApp.runtimeconfig.dev.json
+C:\Users\PREDATOR\source\repos\TCPClientApp\TCPClientApp\bin\Debug\netcoreapp3.1\TCPClientApp.dll
+C:\Users\PREDATOR\source\repos\TCPClientApp\TCPClientApp\bin\Debug\netcoreapp3.1\TCPClientApp.pdb
+C:\Users\PREDATOR\source\repos\TCPClientApp\TCPClientApp\obj\Debug\netcoreapp3.1\TCPClientApp.csprojAssemblyReference.cache
+C:\Users\PREDATOR\source\repos\TCPClientApp\TCPClientApp\obj\Debug\netcoreapp3.1\TCPClientApp.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\TCPClientApp\TCPClientApp\obj\Debug\netcoreapp3.1\TCPClientApp.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\TCPClientApp\TCPClientApp\obj\Debug\netcoreapp3.1\TCPClientApp.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\TCPClientApp\TCPClientApp\obj\Debug\netcoreapp3.1\TCPClientApp.dll
+C:\Users\PREDATOR\source\repos\TCPClientApp\TCPClientApp\obj\Debug\netcoreapp3.1\TCPClientApp.pdb
+C:\Users\PREDATOR\source\repos\TCPClientApp\TCPClientApp\obj\Debug\netcoreapp3.1\TCPClientApp.genruntimeconfig.cache
